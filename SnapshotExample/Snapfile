@@ -22,7 +22,7 @@ screenshots_path "./Screenshots"
 # js_file './snapshot.js'
 
 # The name of the project's scheme
-scheme 'SnapshotExample'
+# scheme 'SnapshotExample'
 
 # Where is your project (or workspace)? Provide the full path here
 # project_path './YourProject.xcworkspace'
